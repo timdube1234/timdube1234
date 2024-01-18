@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tim Dube
+- 👀 I’m interested in artificial intellegence and data science
+- 📫 How to reach me timdube0@gmail.com
+- ⚡ Fun fact: I enjoy hiking with my 2 dogs
